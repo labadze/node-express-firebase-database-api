@@ -1,0 +1,2 @@
+Use it as you want, do not forget read licenses for packages that provided in package.json also if you want say "Thank you - to Archil Labadze"
+URL: https://github.com/labadze/
