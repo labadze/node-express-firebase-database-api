@@ -1,4 +1,4 @@
-# node-express-firebase-database-api
+# node.js RESTful API with firebase realtime database as database engine
 Node.js, express, with firebase as database egnine
 
 ## Installation
