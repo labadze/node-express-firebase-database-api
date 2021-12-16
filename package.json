@@ -1,0 +1,32 @@
+{
+  "name": "node-fir-e",
+  "version": "0.0.1",
+  "description": "Nodejs RESTFul API with firebase as database engine",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon ./server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [" RESTFul API", "http", "API", "node.js", "firebase"],
+  "author": "Archil Labadze",
+  "license": "SEE LICENSE IN <filename>",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "carrier": "^0.3.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "firebase": "^9.6.1",
+    "firebase-admin": "^10.0.1",
+    "http-errors": "^1.8.1",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "stream": "0.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
